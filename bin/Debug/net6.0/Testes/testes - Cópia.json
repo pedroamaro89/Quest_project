@@ -1,0 +1,760 @@
+[
+  {
+    "ID": 1,
+    "DataInicio": "2022-10-17T22:58:43.7744754+01:00",
+    "DataFim": "2022-10-17T22:58:45.9112289+01:00",
+    "Perguntas": [
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "Alunos": [
+      {
+        "ID": 1,
+        "Name": "Luis Amaro",
+        "Notas": [
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 40
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "DataInicio": "2022-10-17T23:01:14.316726+01:00",
+    "DataFim": "2022-10-17T23:01:19.5380014+01:00",
+    "Perguntas": [
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      {
+        "ID": 1,
+        "Name": "Luis Amaro",
+        "Notas": [
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 40
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "DataInicio": "2022-10-18T16:08:29.6984292+01:00",
+    "DataFim": "2022-10-18T16:08:31.2979633+01:00",
+    "Perguntas": [
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "2",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      {
+        "ID": 1,
+        "Name": "Luis Amaro",
+        "Notas": [
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 40
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "DataInicio": "2022-10-18T16:39:12.9699939+01:00",
+    "DataFim": "2022-10-18T16:39:14.9260185+01:00",
+    "Perguntas": [
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "2",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      {
+        "ID": 1,
+        "Name": "Luis Amaro",
+        "Notas": [
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 1,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 0
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 40
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 60
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 100
+          },
+          {
+            "Id": 1,
+            "IdAluno": 0,
+            "Nivel": 1,
+            "Assunto": 1,
+            "Resultado": 80
+          }
+        ]
+      }
+    ]
+  }
+]

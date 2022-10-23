@@ -1,0 +1,5 @@
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST_.csproj.AssemblyReference.cache
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST_.AssemblyInfoInputs.cache
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST_.AssemblyInfo.cs
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST_.csproj.CoreCompileInputs.cache

@@ -1,0 +1,430 @@
+[
+  {
+    "Id": 1,
+    "Nome": "quais destes filmes foram realizados por jean luc godard?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "godard",
+    "Tipo": 1,
+    "Onlyquest": 1,
+    "Resposta1": "stalker",
+    "Resposta2": "pierrot le fou",
+    "Resposta3": "a bout de souffle",
+    "Resposta4": "alphaville",
+    "Valid": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "Id": 2,
+    "Nome": "Zerkalo \u00E9 um filme realizado pelo cineasta russo Andrei Tarkovski?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "Cinema",
+    "Tipo": 3,
+    "Onlyquest": 1,
+    "Resposta1": "1",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 3,
+    "Nome": "Que tipo de lingua \u00E9 C#",
+    "Assunto": 3,
+    "Nivel": 1,
+    "Tag": "Code",
+    "Tipo": 2,
+    "Onlyquest": 1,
+    "Resposta1": "Programa\u00E7\u00E3o",
+    "Resposta2": "Portuguesa",
+    "Resposta3": "de vaca",
+    "Resposta4": null,
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 4,
+    "Nome": "Quais destes realizadores s\u00E3o franceses",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "cinema",
+    "Tipo": 1,
+    "Onlyquest": 1,
+    "Resposta1": "Godard",
+    "Resposta2": "Bergman",
+    "Resposta3": "David Lean",
+    "Resposta4": "Truffaut",
+    "Valid": [
+      1,
+      4
+    ]
+  },
+  {
+    "Id": 5,
+    "Nome": "O festival Primavera \u00E9 realizado no Porto e em Madrid?",
+    "Assunto": 2,
+    "Nivel": 1,
+    "Tag": "1",
+    "Tipo": 3,
+    "Onlyquest": 1,
+    "Resposta1": "2",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 6,
+    "Nome": "O benfica \u00E9 vermelho?",
+    "Assunto": 3,
+    "Nivel": 1,
+    "Tag": "futebol",
+    "Tipo": 3,
+    "Onlyquest": 1,
+    "Resposta1": "1",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 7,
+    "Nome": "Sigur Ros s\u00E3o oriundos de qual dos seguintes pa\u00EDses",
+    "Assunto": 2,
+    "Nivel": 1,
+    "Tag": "1",
+    "Tipo": 2,
+    "Onlyquest": 1,
+    "Resposta1": "Islandia",
+    "Resposta2": "Dinamarca",
+    "Resposta3": "Noruega",
+    "Resposta4": "55",
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 8,
+    "Nome": "Quais dos seguintes artistas/bandas j\u00E1 colaboraram com Nick Cave?",
+    "Assunto": 3,
+    "Nivel": 3,
+    "Tag": "musica",
+    "Tipo": 1,
+    "Onlyquest": 1,
+    "Resposta1": "PJ Harvey",
+    "Resposta2": "Marianne Faithfull",
+    "Resposta3": "Roxy Music",
+    "Resposta4": "David Bowie",
+    "Valid": [
+      1,
+      2
+    ]
+  },
+  {
+    "Id": 9,
+    "Nome": "A capital de Portugal \u00E9 o Porto?",
+    "Assunto": 3,
+    "Nivel": 1,
+    "Tag": "luis",
+    "Tipo": 3,
+    "Onlyquest": 2,
+    "Resposta1": "1",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 10,
+    "Nome": "Les 400 Coups foi realizado por: ",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "alternativo",
+    "Tipo": 2,
+    "Onlyquest": 1,
+    "Resposta1": "Fran\u00E7ois Truffaut",
+    "Resposta2": "Rennais",
+    "Resposta3": "Antonioni",
+    "Resposta4": null,
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 11,
+    "Nome": "Alfred Hitchcock realizou Its a Wonderful Life?",
+    "Assunto": 1,
+    "Nivel": 1,
+    "Tag": "classicos",
+    "Tipo": 3,
+    "Onlyquest": 2,
+    "Resposta1": "2",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 12,
+    "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "alternativo",
+    "Tipo": 1,
+    "Onlyquest": 2,
+    "Resposta1": "Wild Strawberries",
+    "Resposta2": "Fanny and Alexander",
+    "Resposta3": "Blow Up",
+    "Resposta4": "Predator",
+    "Valid": [
+      1,
+      2
+    ]
+  },
+  {
+    "Id": 12,
+    "Nome": "Um destes filmes nao \u00E9 de Antonioni. Qual?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "alternativo",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "L\u0027avventura",
+    "Resposta2": "Suspiria",
+    "Resposta3": "Blow Up",
+    "Resposta4": null,
+    "Valid": [
+      2
+    ]
+  },
+  {
+    "Id": 13,
+    "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 1,
+    "Onlyquest": 2,
+    "Resposta1": "Vertigo",
+    "Resposta2": "To Catch a Thief",
+    "Resposta3": "M",
+    "Resposta4": "Dial M for Murder",
+    "Valid": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "Id": 14,
+    "Nome": "Onda nasceu Bela Tarr?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "alternativo",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "Hungria",
+    "Resposta2": "Austria",
+    "Resposta3": "Alemanha",
+    "Resposta4": null,
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 15,
+    "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "alternativo",
+    "Tipo": 1,
+    "Onlyquest": 2,
+    "Resposta1": "Satantango",
+    "Resposta2": "Werckmeister Harmonies",
+    "Resposta3": "Turin Horse",
+    "Resposta4": "8 1/2",
+    "Valid": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": 16,
+    "Nome": "Quais destes filmes s\u00E3o americanos?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 1,
+    "Onlyquest": 2,
+    "Resposta1": "Graduate",
+    "Resposta2": "Back to Future",
+    "Resposta3": "Blow Up",
+    "Resposta4": "Predator",
+    "Valid": [
+      1,
+      2
+    ]
+  },
+  {
+    "Id": 17,
+    "Nome": "Blow up \u00E9 realizado por Antonioni?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "alternativo",
+    "Tipo": 3,
+    "Onlyquest": 2,
+    "Resposta1": "1",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 18,
+    "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "Com\u00E9dia",
+    "Resposta2": "Terror",
+    "Resposta3": "Drama",
+    "Resposta4": null,
+    "Valid": [
+      2
+    ]
+  },
+  {
+    "Id": 19,
+    "Nome": "Jurassic Park \u00E9 um filme sobre:",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "Dinossauros",
+    "Resposta2": "Girafas",
+    "Resposta3": "Robots",
+    "Resposta4": null,
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 20,
+    "Nome": "Indiana Jones \u00E9 conhecido por usar um:",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "Tapete voador",
+    "Resposta2": "Chicote",
+    "Resposta3": "Garraf\u00E3o",
+    "Resposta4": null,
+    "Valid": [
+      2
+    ]
+  },
+  {
+    "Id": 21,
+    "Nome": "The Shining \u00E9 um filme de que g\u00E9nero",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "Com\u00E9dia",
+    "Resposta2": "Terror",
+    "Resposta3": "Drama",
+    "Resposta4": null,
+    "Valid": [
+      2
+    ]
+  },
+  {
+    "Id": 22,
+    "Nome": "Quem realizou Its a Wonderful Life?",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "classicos",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "David Lean",
+    "Resposta2": "Terrence Malick",
+    "Resposta3": "Frank Capra",
+    "Resposta4": null,
+    "Valid": [
+      3
+    ]
+  },
+  {
+    "Id": 24,
+    "Nome": "asd",
+    "Assunto": 1,
+    "Nivel": 1,
+    "Tag": "asd",
+    "Tipo": 1,
+    "Onlyquest": 2,
+    "Resposta1": "adsd",
+    "Resposta2": "qwer",
+    "Resposta3": "asdq",
+    "Resposta4": "qwdqd",
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 25,
+    "Nome": "portugal",
+    "Assunto": 1,
+    "Nivel": 3,
+    "Tag": "portugal",
+    "Tipo": 3,
+    "Onlyquest": 1,
+    "Resposta1": "1",
+    "Resposta2": null,
+    "Resposta3": null,
+    "Resposta4": null,
+    "Valid": null
+  },
+  {
+    "Id": 26,
+    "Nome": "aspojdmfjsagf",
+    "Assunto": 1,
+    "Nivel": 1,
+    "Tag": "ajpfsd",
+    "Tipo": 1,
+    "Onlyquest": 1,
+    "Resposta1": "port",
+    "Resposta2": "alpsd\u002B",
+    "Resposta3": "apfspoajkf",
+    "Resposta4": "aksodfpokasd",
+    "Valid": [
+      1
+    ]
+  },
+  {
+    "Id": 27,
+    "Nome": "safkd",
+    "Assunto": 1,
+    "Nivel": 1,
+    "Tag": "alsdfka\u00E7s",
+    "Tipo": 2,
+    "Onlyquest": 2,
+    "Resposta1": "sajfdpas",
+    "Resposta2": "askifdjad",
+    "Resposta3": "kasofdka\u002Bs",
+    "Resposta4": null,
+    "Valid": [
+      1
+    ]
+  }
+]

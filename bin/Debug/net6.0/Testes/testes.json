@@ -1,0 +1,1458 @@
+[
+  {
+    "ID": 1,
+    "DataInicio": "2022-10-19T22:28:21.8137104+01:00",
+    "DataFim": "2022-10-25T12:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 0,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 19,
+        "Nome": "Quem realizou Its a Wonderful Life?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "David Lean",
+        "Resposta2": "Terrence Malick",
+        "Resposta3": "Frank Capra",
+        "Resposta4": null,
+        "Valid": [
+          3
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      }
+    ],
+    "Alunos": []
+  },
+  {
+    "ID": 2,
+    "DataInicio": "2022-10-19T22:50:32.8893649+01:00",
+    "DataFim": "2022-12-30T12:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 0,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      }
+    ],
+    "Alunos": [
+      1
+    ]
+  },
+  {
+    "ID": 3,
+    "DataInicio": "2022-10-20T16:30:50.0175119+01:00",
+    "DataFim": "2022-10-20T16:30:51.3615378+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 0,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 19,
+        "Nome": "Quem realizou Its a Wonderful Life?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "David Lean",
+        "Resposta2": "Terrence Malick",
+        "Resposta3": "Frank Capra",
+        "Resposta4": null,
+        "Valid": [
+          3
+        ]
+      }
+    ],
+    "Alunos": []
+  },
+  {
+    "ID": 4,
+    "DataInicio": "2022-10-20T16:34:27.4277781+01:00",
+    "DataFim": "2022-10-30T15:34:28.3784922+00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 2,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 19,
+        "Nome": "Quem realizou Its a Wonderful Life?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "David Lean",
+        "Resposta2": "Terrence Malick",
+        "Resposta3": "Frank Capra",
+        "Resposta4": null,
+        "Valid": [
+          3
+        ]
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 5,
+    "DataInicio": "2022-10-20T16:36:34.3176608+01:00",
+    "DataFim": "2022-11-20T12:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 0,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      }
+    ],
+    "Alunos": [
+      2
+    ]
+  },
+  {
+    "ID": 6,
+    "DataInicio": "2022-10-20T20:55:34.6144056+01:00",
+    "DataFim": "2022-12-30T00:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "hitchcock",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bela Tarr",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Cinema",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "Bergman",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "cinema",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 7,
+    "DataInicio": "2022-10-21T15:11:54.9173663+01:00",
+    "DataFim": "2022-10-21T15:11:56.3028683+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Um destes filmes nao \u00E9 de Antonioni. Qual?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "L\u0027avventura",
+        "Resposta2": "Suspiria",
+        "Resposta3": "Blow Up",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 8,
+    "DataInicio": "2022-10-21T16:30:46.654907+01:00",
+    "DataFim": "2022-10-21T16:30:47.8072127+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Um destes filmes nao \u00E9 de Antonioni. Qual?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "L\u0027avventura",
+        "Resposta2": "Suspiria",
+        "Resposta3": "Blow Up",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 9,
+    "DataInicio": "2022-10-21T16:34:53.179716+01:00",
+    "DataFim": "2022-10-21T16:34:54.3908139+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 10,
+    "DataInicio": "2022-10-21T17:41:28.997909+01:00",
+    "DataFim": "2022-10-21T17:41:31.8053299+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Um destes filmes nao \u00E9 de Antonioni. Qual?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "L\u0027avventura",
+        "Resposta2": "Suspiria",
+        "Resposta3": "Blow Up",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 11,
+    "DataInicio": "2022-10-21T17:42:56.4548844+01:00",
+    "DataFim": "2022-12-30T00:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 2,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 21,
+        "Nome": "The Shining \u00E9 um filme de que g\u00E9nero",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 22,
+        "Nome": "Quem realizou Its a Wonderful Life?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "David Lean",
+        "Resposta2": "Terrence Malick",
+        "Resposta3": "Frank Capra",
+        "Resposta4": null,
+        "Valid": [
+          3
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 16,
+        "Nome": "Quais destes filmes s\u00E3o americanos?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Graduate",
+        "Resposta2": "Back to Future",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 12,
+    "DataInicio": "2022-10-21T17:48:57.811554+01:00",
+    "DataFim": "2022-12-31T00:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": "alternativo",
+    "Perguntas": [
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Um destes filmes nao \u00E9 de Antonioni. Qual?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "L\u0027avventura",
+        "Resposta2": "Suspiria",
+        "Resposta3": "Blow Up",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 13,
+    "DataInicio": "2022-10-21T17:50:47.7098317+01:00",
+    "DataFim": "2022-12-30T00:00:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": "alternativo",
+    "Perguntas": [
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 17,
+        "Nome": "Blow up \u00E9 realizado por Antonioni?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 3,
+        "Onlyquest": 2,
+        "Resposta1": "1",
+        "Resposta2": null,
+        "Resposta3": null,
+        "Resposta4": null,
+        "Valid": null
+      },
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 12,
+        "Nome": "Um destes filmes nao \u00E9 de Antonioni. Qual?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "L\u0027avventura",
+        "Resposta2": "Suspiria",
+        "Resposta3": "Blow Up",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      }
+    ],
+    "Alunos": [
+      2,
+      1
+    ]
+  },
+  {
+    "ID": 14,
+    "DataInicio": "2022-10-22T01:23:17.5558978+01:00",
+    "DataFim": "2022-10-22T01:23:18.8133186+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 15,
+        "Nome": "Quais destes filmes foram realizados por Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Satantango",
+        "Resposta2": "Werckmeister Harmonies",
+        "Resposta3": "Turin Horse",
+        "Resposta4": "8 1/2",
+        "Valid": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "Id": 22,
+        "Nome": "Quem realizou Its a Wonderful Life?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "David Lean",
+        "Resposta2": "Terrence Malick",
+        "Resposta3": "Frank Capra",
+        "Resposta4": null,
+        "Valid": [
+          3
+        ]
+      },
+      {
+        "Id": 21,
+        "Nome": "The Shining \u00E9 um filme de que g\u00E9nero",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 19,
+        "Nome": "Jurassic Park \u00E9 um filme sobre:",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Dinossauros",
+        "Resposta2": "Girafas",
+        "Resposta3": "Robots",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 20,
+        "Nome": "Indiana Jones \u00E9 conhecido por usar um:",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Tapete voador",
+        "Resposta2": "Chicote",
+        "Resposta3": "Garraf\u00E3o",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      }
+    ],
+    "Alunos": []
+  },
+  {
+    "ID": 15,
+    "DataInicio": "2022-10-22T01:25:14.880559+01:00",
+    "DataFim": "2022-10-22T01:25:17.1694275+01:00",
+    "Assunto": 1,
+    "Nivel": 3,
+    "PergRespRandom": 1,
+    "TagEspecifico": null,
+    "Perguntas": [
+      {
+        "Id": 12,
+        "Nome": "Quais destes filmes foram realizados por Ingmar Bergman?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Wild Strawberries",
+        "Resposta2": "Fanny and Alexander",
+        "Resposta3": "Blow Up",
+        "Resposta4": "Predator",
+        "Valid": [
+          1,
+          2
+        ]
+      },
+      {
+        "Id": 14,
+        "Nome": "Onda nasceu Bela Tarr?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "alternativo",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Hungria",
+        "Resposta2": "Austria",
+        "Resposta3": "Alemanha",
+        "Resposta4": null,
+        "Valid": [
+          1
+        ]
+      },
+      {
+        "Id": 18,
+        "Nome": "Que tipo de filme \u00E9 Rosemarys Baby?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      },
+      {
+        "Id": 13,
+        "Nome": "Quais destes filmes foram realizados por Alfred Hitchcock?",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 1,
+        "Onlyquest": 2,
+        "Resposta1": "Vertigo",
+        "Resposta2": "To Catch a Thief",
+        "Resposta3": "M",
+        "Resposta4": "Dial M for Murder",
+        "Valid": [
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "Id": 21,
+        "Nome": "The Shining \u00E9 um filme de que g\u00E9nero",
+        "Assunto": 1,
+        "Nivel": 3,
+        "Tag": "classicos",
+        "Tipo": 2,
+        "Onlyquest": 2,
+        "Resposta1": "Com\u00E9dia",
+        "Resposta2": "Terror",
+        "Resposta3": "Drama",
+        "Resposta4": null,
+        "Valid": [
+          2
+        ]
+      }
+    ],
+    "Alunos": []
+  }
+]

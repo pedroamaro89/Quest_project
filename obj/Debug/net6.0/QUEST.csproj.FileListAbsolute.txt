@@ -1,0 +1,15 @@
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.csproj.AssemblyReference.cache
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.AssemblyInfoInputs.cache
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.AssemblyInfo.cs
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\bin\Debug\net6.0\QUEST.exe
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\bin\Debug\net6.0\QUEST.deps.json
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\bin\Debug\net6.0\QUEST.runtimeconfig.json
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\bin\Debug\net6.0\QUEST.dll
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\bin\Debug\net6.0\QUEST.pdb
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.dll
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\refint\QUEST.dll
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.pdb
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\QUEST.genruntimeconfig.cache
+C:\Users\Pedro Amaro\source\repos\QUEST_\QUEST_\obj\Debug\net6.0\ref\QUEST.dll
